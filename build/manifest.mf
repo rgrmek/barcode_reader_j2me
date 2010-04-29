@@ -1,0 +1,7 @@
+MIDlet-1: Barcode Reader,,BarcodeMIDlet
+MIDlet-Vendor: Vendor
+MIDlet-Name: Barcode Reader
+MIDlet-Description: A J2ME barcode reader.
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
